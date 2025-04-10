@@ -1,1 +1,1 @@
-# SMOTE-enhanced-ML-for-liver-disease-prediction
+# liver
